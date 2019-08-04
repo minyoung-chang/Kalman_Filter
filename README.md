@@ -3,6 +3,7 @@
 ## Min Young Chang
 
 [//]: # (Image References)
+[image0]: ./kf_images/sensor_fusion2.gif
 [image1]: ./kf_images/writeup_img1.png
 [image2]: ./kf_images/writeup_img2.png
 [image3]: ./kf_images/writeup_img3.png
@@ -16,6 +17,7 @@
 [image11]: ./kf_images/writeup_img11.png
 [image12]: ./kf_images/writeup_img12.png
 
+![alt text][image0]
 ---
 MAIN FILES <br>
 `main.cpp`: main running file<br>
